@@ -1,0 +1,9 @@
+This project is a simple demonstartion of making a QE code using python.
+
+Before running code, we would need to download two libraries
+
+1. QR CODE: pip install qrcode
+2. IMAGE: pip install image
+
+After successfully installing these two libraries, we can import them in our code. 
+
